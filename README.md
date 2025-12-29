@@ -1,2 +1,4 @@
-# certifications-and-achievements
-A curated collection of my professional certifications, academic achievements, and continuous learning milestones, showcasing my commitment to skill development and technical excellence.
+🎓 My Certifications-and-Achievements
+
+ A curated collection of my verified certifications, academic achievements, and technical credentials, reflecting my continuous learning, professional growth, and commitment to excellence in technology.
+
