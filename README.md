@@ -45,10 +45,10 @@ Each folder is organized for **easy navigation and verification**.
 
 If you’d like to connect or know more about my work:
 
-- 📧 **Email:** arpiyush2005@gmail.com 
-- 💼 **LinkedIn:**www.linkedin.com/in/piyush-ranjan2005**  
-- 💻 **GitHub:** https://github.com/piyush-ranjan2005
+- 📧 **Email:** [arpiyush2005@gmail.com](mailto:arpiyush2005@gmail.com)
+- 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/piyush-ranjan2005)
+- 💻 **GitHub:** [GitHub Profile](https://github.com/piyush-ranjan2005)
 
 ---
 
-✨ *This repository is continuously updated as I earn new certifications and achievements.*
+✨ *This repository is continuously updated as I earn more certifications and achievements.*
