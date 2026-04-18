@@ -9,9 +9,12 @@ This repository showcases my **verified certifications, hackathon achievements, 
 
 | Certificate | Issuing Organization | Date |
 |------------|----------------------|------|
-| **Artificial Intelligence** | Infosys Springboard | Jun 2025 |
+| **Artificial Intelligence** | Infosys Springboard | June 2025 |
 | **GenAI Powered Data Analytics Job Simulation** | Tata Group | Aug 2025 |
 | **Oracle Certified AI Foundation Associate** | Oracle | Sep 2025 |
+| **Introduction to Deep Learning** | Infosys Springboard | June 2025 |
+| **Infosys Springboard Internship Project Completion Certificate** | AI Domain | Feb 2025 |
+
 
 📁 Individual certificates are available inside the `certificates/Professional-Certifications/` folder.
 
